@@ -1,0 +1,5 @@
+outs:
+- md5: ed529d8888a07ac4f8574924d3293d20.dir
+  size: 13340
+  nfiles: 3
+  path: prepared_output

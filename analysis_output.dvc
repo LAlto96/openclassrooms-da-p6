@@ -1,0 +1,5 @@
+outs:
+- md5: 404927f1c36644b916786783bceeca3b.dir
+  size: 969224
+  nfiles: 1
+  path: analysis_output
