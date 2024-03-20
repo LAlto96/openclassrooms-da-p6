@@ -21,6 +21,7 @@ L’équipe Marketing que vous intégrez se compose de :
 
 Voici le mail de résumé envoyé par Annabelle, que vous trouvez dès
 votre arrivée :
+
 Objet : Bienvenue dans l’équipe Marketing
 De : Annabelle
 À : Moi
@@ -31,25 +32,33 @@ ans de cela notre librairie en ligne, et nous aimerions faire le point à
 présent. Cela nous permettra de décider de la marche à suivre, par
 exemple décider si nous devons créer certaines offres, adapter
 certains prix, etc.
+
 Cette analyse va être découpée en deux parties :
+
 ● Une analyse des différents indicateurs de vente, qui a été
 demandée directement par Antoine. Je t’ai mis en pièce
 jointe l’e-mail qu’il m’a envoyé résumant ses demandes.
+
 ● Une analyse plus ciblée sur les clients : l’objectif serait cette
 fois-ci de comprendre le comportement de nos clients en
 ligne, pour pouvoir ensuite comparer avec la connaissance
 acquise via nos librairies physiques. Pour cela, je t’invite à voir
 avec Julie, qui te précisera directement ses demandes à ce
 niveau.
+
 La base de données est en pièce jointe. N’hésite pas si tu as des
 questions, je me tiens à ta disposition.
+
 Excellente journée à toi !
+
 Annabelle
+
 Pièces jointes :
 ● Mail forwardé d’Antoine
 ● Fichier ZIP contenant les bases
 Après avoir consulté le mail d’Antoine, vous prenez directement
 contact avec Julie.
+
 Hello Julie, je suis le nouveau Data Analyst chargé d’analyser les
 données de ventes en ligne. Annabelle m’a dit que tu avais des
 demandes concernant l’analyse des comportements clients.
