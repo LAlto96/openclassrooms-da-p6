@@ -10,10 +10,15 @@ l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site
 de vente en ligne. Vous intervenez car l’entreprise souhaite faire le
 point après deux ans d’exercice, et pouvoir analyser ses points forts, ses
 points faibles, les comportements clients, etc.
+
 L’équipe Marketing que vous intégrez se compose de :
+
 ● Annabelle, la responsable Marketing ;
+
 ● Julie, chargée d’études en marketing ;
+
 ● Antoine, chargé de produit marketing.
+
 Voici le mail de résumé envoyé par Annabelle, que vous trouvez dès
 votre arrivée :
 Objet : Bienvenue dans l’équipe Marketing
