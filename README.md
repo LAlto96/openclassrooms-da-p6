@@ -1,5 +1,7 @@
 # OpenClassrooms
 
+[L'énoncé peut-être trouvé ici](OpenClassrooms/enonce)
+
 ## Contexte
 
 Vous êtes consultant Data Analyst chez Lapage, une grande librairie
@@ -58,7 +60,7 @@ votre arrivée :
 > Annabelle
 > 
 > Pièces jointes :
-> ● [Mail forwardé d’Antoine](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P6/Mail_Antoine_P3.pdf)
+> ● [Mail forwardé d’Antoine](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P6/Mail_Antoine_P3.pdf)  
 > ● [Fichier ZIP contenant les bases](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P6-donnees.zip)
 
 ## Contact avec Julie
@@ -91,3 +93,9 @@ et les catégories des livres achetés.
 
 Vous gardez en tête toutes ces informations et commencez à regarder
 les données.
+
+
+# Travaux
+
+[Préparation de donnée](Dataprep.ipynb)
+[ANalyse](DataAnalysis.ipynb )
