@@ -1,6 +1,6 @@
 # OpenClassrooms
 
-[L'énoncé peut-être trouvé ici](OpenClassrooms/enonce)
+[L'énoncé peut-être trouvé ici](OpenClassrooms/enonce.pdf)
 
 ## Contexte
 
