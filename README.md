@@ -59,37 +59,37 @@ votre arrivée :
 > 
 > Annabelle
 > 
-> Pièces jointes :
-> ● [Mail forwardé d’Antoine](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P6/Mail_Antoine_P3.pdf)  
-> ● [Fichier ZIP contenant les bases](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P6-donnees.zip)
+> Pièces jointes :  
+> ● [Mail forwardé d’Antoine](OpenClassrooms/MailAntoine.pdf)  
+> ● [Fichier ZIP contenant les bases](OpenClassrooms/DAN-P6-donnees.zip)  
 
 ## Contact avec Julie
 
 Après avoir consulté le mail d’Antoine, vous prenez directement
 contact avec Julie.
 
-Hello Julie, je suis le nouveau Data Analyst chargé d’analyser les
-données de ventes en ligne. Annabelle m’a dit que tu avais des
-demandes concernant l’analyse des comportements clients.
+> Hello Julie, je suis le nouveau Data Analyst chargé d’analyser les
+> données de ventes en ligne. Annabelle m’a dit que tu avais des
+> demandes concernant l’analyse des comportements clients.
+> 
+> Salut ! Bienvenue dans l’équipe ! J’allais justement prendre
+> contact avec toi. C’est exactement cela ! Je vais avoir besoin
+> que tu regardes certaines corrélations, pour voir s’il n’y a pas
+> certains points que nous pourrions analyser.
 
-Salut ! Bienvenue dans l’équipe ! J’allais justement prendre
-contact avec toi. C’est exactement cela ! Je vais avoir besoin
-que tu regardes certaines corrélations, pour voir s’il n’y a pas
-certains points que nous pourrions analyser.
+> Bien sûr. Tu as déjà une idée précise de ce que tu veux que je
+> regarde ?
 
-Bien sûr. Tu as déjà une idée précise de ce que tu veux que je
-regarde ?
+> Oui ! J’aimerais que tu regardes en particulier :
+> 
+> ● le lien entre le genre d’un client et les catégories des
+> livres achetés ;
+> 
+> ● et ensuite le lien entre l’âge des clients et le montant total
+> des achats, la fréquence d’achat, la taille du panier moyen
+> et les catégories des livres achetés.
 
-Oui ! J’aimerais que tu regardes en particulier :
-
-● le lien entre le genre d’un client et les catégories des
-livres achetés ;
-
-● et ensuite le lien entre l’âge des clients et le montant total
-des achats, la fréquence d’achat, la taille du panier moyen
-et les catégories des livres achetés.
-
-Ça marche, je m’occupe de ça !
+> Ça marche, je m’occupe de ça !
 
 Vous gardez en tête toutes ces informations et commencez à regarder
 les données.
@@ -97,5 +97,5 @@ les données.
 
 # Travaux
 
-[Préparation de donnée](Dataprep.ipynb)
-[ANalyse](DataAnalysis.ipynb )
+[Préparation de donnée](Dataprep.ipynb)  
+[Analyse](DataAnalysis.ipynb )  
