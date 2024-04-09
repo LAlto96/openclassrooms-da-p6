@@ -1,4 +1,6 @@
-# project6
+# OpenClassrooms
+
+## Contexte
 
 Vous êtes consultant Data Analyst chez Lapage, une grande librairie
 généraliste en ligne très réputée. Vous êtes directement rattaché au
@@ -19,43 +21,48 @@ L’équipe Marketing que vous intégrez se compose de :
 
 ● Antoine, chargé de produit marketing.
 
+## Mail d'arrivé
+
 Voici le mail de résumé envoyé par Annabelle, que vous trouvez dès
 votre arrivée :
 
-Objet : Bienvenue dans l’équipe Marketing
-De : Annabelle
-À : Moi
-Hello,
-Bienvenue chez Lapage ! J’espère que tu te plairas parmi nous.
-Comme tu l’as certainement compris, nous avons ouvert il y a deux
-ans de cela notre librairie en ligne, et nous aimerions faire le point à
-présent. Cela nous permettra de décider de la marche à suivre, par
-exemple décider si nous devons créer certaines offres, adapter
-certains prix, etc.
+> Objet : Bienvenue dans l’équipe Marketing  
+> De : Annabelle  
+> À : Moi  
+> Hello,  
+> Bienvenue chez Lapage ! J’espère que tu te plairas parmi nous.  
+> Comme tu l’as certainement compris, nous avons ouvert il y a deux 
+> ans de cela notre librairie en ligne, et nous aimerions faire le point à
+> présent. Cela nous permettra de décider de la marche à suivre, par
+> exemple décider si nous devons créer certaines offres, adapter
+> certains prix, etc.
+> 
+> Cette analyse va être découpée en deux parties :
+> 
+> ● Une analyse des différents indicateurs de vente, qui a été
+> demandée directement par Antoine. Je t’ai mis en pièce
+> jointe l’e-mail qu’il m’a envoyé résumant ses demandes.
+> 
+> ● Une analyse plus ciblée sur les clients : l’objectif serait cette
+> fois-ci de comprendre le comportement de nos clients en
+> ligne, pour pouvoir ensuite comparer avec la connaissance
+> acquise via nos librairies physiques. Pour cela, je t’invite à voir
+> avec Julie, qui te précisera directement ses demandes à ce
+> niveau.
+> 
+> La base de données est en pièce jointe. N’hésite pas si tu as des
+> questions, je me tiens à ta disposition.
+> 
+> Excellente journée à toi !
+> 
+> Annabelle
+> 
+> Pièces jointes :
+> ● [Mail forwardé d’Antoine](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/DAN_V2_P6/Mail_Antoine_P3.pdf)
+> ● [Fichier ZIP contenant les bases](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-analyst/DAN-P6-donnees.zip)
 
-Cette analyse va être découpée en deux parties :
+## Contact avec Julie
 
-● Une analyse des différents indicateurs de vente, qui a été
-demandée directement par Antoine. Je t’ai mis en pièce
-jointe l’e-mail qu’il m’a envoyé résumant ses demandes.
-
-● Une analyse plus ciblée sur les clients : l’objectif serait cette
-fois-ci de comprendre le comportement de nos clients en
-ligne, pour pouvoir ensuite comparer avec la connaissance
-acquise via nos librairies physiques. Pour cela, je t’invite à voir
-avec Julie, qui te précisera directement ses demandes à ce
-niveau.
-
-La base de données est en pièce jointe. N’hésite pas si tu as des
-questions, je me tiens à ta disposition.
-
-Excellente journée à toi !
-
-Annabelle
-
-Pièces jointes :
-● Mail forwardé d’Antoine
-● Fichier ZIP contenant les bases
 Après avoir consulté le mail d’Antoine, vous prenez directement
 contact avec Julie.
 
